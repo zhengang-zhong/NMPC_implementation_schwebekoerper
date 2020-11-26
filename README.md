@@ -103,7 +103,7 @@ Um die richtige Informationen der seriellen Kommunikation, die durch USART in PC
 
    1. Nach dem Flashen der bin-Datei verbinden das Bord mit einem Windows-PC. 
 
-   2.  Eingeben das richtige Port der Kommunikation und Baudrate. ([How to find your COM port]([https://hy-bon.com/files/4814/4250/7490/com_port_vista.pdf#:~:text=When%20the%20device%20manager%20shows,beside%20it%20to%20expand%20it.&text=If%20you%20are%20using%20a,as%20a%20%22Communications%20Port%22.&text=If%20you%20are%20using%20a%20USB%20to%20Serial%20Adapter%2C%20it,a%20%22USB%20Serial%20Port%22.](https://hy-bon.com/files/4814/4250/7490/com_port_vista.pdf#:~:text=When the device manager shows,beside it to expand it.&text=If you are using a,as a "Communications Port".&text=If you are using a USB to Serial Adapter%2C it,a "USB Serial Port".)))
+   2.  Eingeben das richtige Port der Kommunikation und Baudrate.
 
       ![Putty](./screanshot/Putty.png)
 
