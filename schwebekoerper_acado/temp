@@ -1,0 +1,16 @@
+	for (i = 0; i < NY * N; ++i){
+		switch( i % NY){
+			case 0:	acadoVariables.y[ i ] = 5.0; break;
+			case 1: acadoVariables.y[ i ] = 0.0; break;
+			case 2: acadoVariables.y[ i ] = 0.0; break;
+			default: break;
+	   	}
+	}
+	for (i = 0; i < NYN ; ++i){
+		switch( i % NYN){
+			case 0:	acadoVariables.yN[ i ] = 5.0; break;
+			case 1: acadoVariables.yN[ i ] = 0.0; break;
+			case 2: acadoVariables.yN[ i ] = 0.0; break;
+			default: break;
+	   	}
+	}

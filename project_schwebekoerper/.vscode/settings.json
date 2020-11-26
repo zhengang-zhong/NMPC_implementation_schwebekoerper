@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "acado_common.h": "c",
+        "acado_function.h": "c",
+        "stdio.h": "c"
+    }
+}

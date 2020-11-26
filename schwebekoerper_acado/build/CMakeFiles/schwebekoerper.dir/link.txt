@@ -1,0 +1,1 @@
+/usr/bin/c++     -std=c++0x   CMakeFiles/schwebekoerper.dir/schwebekoerper.cpp.o  -o ../schwebekoerper -rdynamic /home/zzg/Desktop/zzg_da/ACADOtoolkit/build/lib/libacado_toolkit_s.so -Wl,-rpath,/home/zzg/Desktop/zzg_da/ACADOtoolkit/build/lib 
