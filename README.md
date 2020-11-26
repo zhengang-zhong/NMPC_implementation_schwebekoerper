@@ -2,7 +2,7 @@
 
 In diesem Dokument geht's um die Inbetriebnahme vom Schwebekörper-Versuchsstand. Das NMPC-Verfahren mit exaktem Endzustand wird für den Schwebekörper auf einem STM32F767-Bord implementiert.
 
-<img src="./screanshot/schweb_modell.jpg" alt="schweb_modell" style="zoom:24%;" />
+<img src="./screanshot/schweb_modell.jpg" alt="schweb_modell" width="40%" height="50%" />
 
 ## Beginnen
 
@@ -325,9 +325,7 @@ Die Zustandstrajektorien und Eingangsverlauf werden durch /schwebekoerper_umsetz
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+
 
 
 
